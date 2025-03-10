@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name="gameoflife-cuda",  # PyPI package name
-    version="0.1.0",  # Increment for future updates
+    version="0.1.1",  # Increment for future updates
     packages=find_packages(),  # Automatically find all packages
     author="Sagnik Nath",
     author_email="sanath@ucsc.edu",
