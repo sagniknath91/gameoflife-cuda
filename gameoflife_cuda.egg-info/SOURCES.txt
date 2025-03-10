@@ -1,0 +1,11 @@
+README.md
+pyproject.toml
+setup.py
+gameoflife_cuda/__init__.py
+gameoflife_cuda/gameoflife_cuda.py
+gameoflife_cuda.egg-info/PKG-INFO
+gameoflife_cuda.egg-info/SOURCES.txt
+gameoflife_cuda.egg-info/dependency_links.txt
+gameoflife_cuda.egg-info/entry_points.txt
+gameoflife_cuda.egg-info/requires.txt
+gameoflife_cuda.egg-info/top_level.txt

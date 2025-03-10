@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 
 setup(
-    name="gameoflife_cuda",  # PyPI package name
+    name="gameoflife-cuda",  # PyPI package name
     version="0.1.0",  # Increment for future updates
     packages=find_packages(),  # Automatically find all packages
     author="Sagnik Nath",
@@ -20,7 +20,7 @@ setup(
     install_requires=["torch", "vispy"],  # Dependencies
     entry_points={
         "console_scripts": [
-            "gameoflife=gameoflife_cuda.gameoflife_cuda:main",  # CLI entry point
+            "gameoflife-cuda=gameoflife_cuda.gameoflife_cuda:main",  # CLI entry point
         ],
     },
 )
