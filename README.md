@@ -9,11 +9,11 @@ Adjustable grid size
 
 ## Installation
 
-###Install Dependencies
+####Install Dependencies
 Before running the game, ensure you have the following dependencies installed:
 pip install torch vispy
 
-##Requirements
+###Requirements
 Python 3.7+
 CUDA-enabled GPU (Recommended, but will fallback to CPU if unavailable)
 
