@@ -1,6 +1,6 @@
 Metadata-Version: 2.2
 Name: gameoflife-cuda
-Version: 0.1.0
+Version: 0.1.1
 Summary: A CUDA-accelerated implementation of Conway's Game of Life
 Home-page: https://github.com/sagniknath91/gameoflife-cuda
 Author: Sagnik Nath
@@ -35,11 +35,11 @@ Adjustable grid size
 
 ## Installation
 
-###Install Dependencies
+#### Install Dependencies
 Before running the game, ensure you have the following dependencies installed:
 pip install torch vispy
 
-##Requirements
+### Requirements
 Python 3.7+
 CUDA-enabled GPU (Recommended, but will fallback to CPU if unavailable)
 
